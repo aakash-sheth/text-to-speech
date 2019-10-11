@@ -1,0 +1,13 @@
+==> 2019-10-10 18:28:08 <==
+# cmd: C:\Users\desh669\AppData\Local\Continuum\anaconda3\Scripts\conda-script.py create --prefix ./tts_venv python=3.6
+# conda version: 4.7.5
++defaults::certifi-2019.9.11-py36_0
++defaults::pip-19.2.3-py36_0
++defaults::python-3.6.9-h5500b2f_0
++defaults::setuptools-41.4.0-py36_0
++defaults::sqlite-3.30.0-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.16.27012-hf0eaf9b_0
++defaults::wheel-0.33.6-py36_0
++defaults::wincertstore-0.2-py36h7fe50ca_0
+# update specs: ['python=3.6']
